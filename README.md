@@ -7,5 +7,6 @@ Los cambios realizados fueron:
 3. Cambio varios en la web, se eliminan botones, reemplazo trabajos por lugares
 4. Se incorporan fotos y títulos de lugares visitados
 5. Modificó la sección acerca de mi, también actualizo el README registranto los cambios realizados
+6. Actualizo el README registranto los cambios realizados
 
 
